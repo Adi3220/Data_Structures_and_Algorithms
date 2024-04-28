@@ -4,7 +4,7 @@
 
     Following is the class structure of the Node class:
 
-        class Node
+        class Node 
         {
         public:
             int data;
